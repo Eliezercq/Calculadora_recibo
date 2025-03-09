@@ -1,1 +1,1 @@
-Calculadora/recibo, criada com a biblioteca prettytable, falta inserir automação para envio ao e-mail.
+Calculadora/recibo, criada com a biblioteca prettytable, usando Tkinter, adaptada para projeto de extenção.
